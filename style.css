@@ -1,0 +1,23 @@
+h1{
+    color: green;
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+  }
+  h2{
+    color: purple;
+  }
+  img{
+    margin-top: 50px;
+    width: 35%;
+  }
+  h3{
+    text-align: center;
+  }
+  .centralizar{
+    text-align: cente;
+  }
+  .centralizada{
+    display: block;
+    margin: 0 auto;
+  }
