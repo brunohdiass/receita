@@ -8,4 +8,5 @@
 - [Bruno Dias]()
 - [Senai Jandira]()
 
-# receita
+
+# Galeria
